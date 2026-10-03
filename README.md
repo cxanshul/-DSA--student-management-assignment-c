@@ -73,4 +73,4 @@ Run the compiled executable:
 ---
 
 ## 📜 License
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the, anyone can use this project [MIT License](LICENSE).
